@@ -1,5 +1,5 @@
 # азбука морзе.xlsx - перевод кода морзе
-# nigga.py и  первый номер.txt - ЕГЭ задания из lictpu/help
+# Kianu Rivz.py и  первый номер.txt - ЕГЭ задания из lictpu/help
 # ultracode42.py - задание из учебника на 40 странице
 # Алгебра логики.xlsx - задание по алгебре логики из lyctpu.github.io
 # Книга1.xlsx - задание по алгебре логики из lyctpu.github.io
