@@ -1,0 +1,6 @@
+SELECT COUNT(*) FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE='BASE TABLE' - посчитать количество таблиц
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE='BASE TABLE' - вывести названия таблиц
+SELECT * FROM users - вывести таблицу(users - название)
+SELECT * FROM users WHERE NAME=('Олег') - найти строку(слово) в таблице
+SELECT * NAME FROM users - вывести названия таблицы
+SELECT * FROM users, grades - вывести 2 таблицы одновременно
