@@ -14,4 +14,4 @@
 # turtle - папка с черепахами рисующими деревья
 # SQL запросы - SQL запросы
 # chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
-$$ \[ \bar{(A \vee B)}\]= \bar A \wedge \bar B $$
+$$ \[ \bar{(A \vee B)} \]= \bar A \wedge \bar B $$
