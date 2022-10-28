@@ -14,3 +14,4 @@
 # turtle - папка с черепахами рисующими деревья
 # SQL запросы - SQL запросы
 # chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
+пример латексной формулы: $$ F=mc^2 $$
