@@ -13,3 +13,4 @@
 # cod.py - код для решения примеров с 2-мя числами(*,\,+,-)
 # turtle - папка с черепахами рисующими деревья
 # SQL запросы - SQL запросы
+# chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
