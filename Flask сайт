@@ -1,0 +1,43 @@
+from flask import Flask, render_template
+ 
+app = Flask(__name__)
+
+menu = ["Установка","Первое приложнеие","Обратная связь"] 
+@app.route("/")
+def index():
+    return render_template('index.html', title='Flask', menu = menu)
+<!DOCTYPE html>
+<html>
+<head>
+{% block title -%}
+{% if title %}
+         <title>Про Flask - {{title}}</title>
+{% else %}
+         <title>Про Flask</title>
+{% endif %}
+{% endblock %}
+</head>
+<body>
+{% block content -%}
+         {%- block mainmenu -%}
+<ul>
+         {% for m in menu -%}
+<li>{{m}}</li>
+         {% endfor -%}
+</ul>
+         {% endblock mainmenu -%}
+         {% if title -%}
+<h1>{{title}}</h1>
+         {% else -%}
+<h1>Про Flask</h1>
+         {% endif -%}
+{% endblock -%}
+</body>
+</html>
+ 
+@app.route("/about")
+def about():
+    return render_template('about.html', title = "О сайте", menu = menu)
+ 
+if __name__ == "__main__":
+    app.run(debug=True)
