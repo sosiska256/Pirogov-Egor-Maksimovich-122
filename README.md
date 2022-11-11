@@ -17,3 +17,7 @@
 $$ \overline{(a \wedge b)} = \overline{a} \vee \overline{b} $$
 
 $$ \overline{\mathrm{E_{1}^{2}}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a_{1}^{\frac{1}{3}}}+\mathrm{\beta}_{2}^{\frac{2}{3}} $$
+
+$$ a=\frac{{V_{x}^{2}}-{V_{0x}^{2}}}{2S_{x}} $$
+
+$$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
