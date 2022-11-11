@@ -15,4 +15,4 @@
 # SQL запросы - SQL запросы
 # chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
 $$ \overline{(a \wedge b)} = \overline{a} \vee \overline{b} $$
-\overline{\mathrm{E}_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a}_{1}^{\frac{1}{3}}+\mathrm{\beta}_{2}^{\frac{2}{3}}
+$$ \overline{\mathrm{E}_{1}^{2}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a}_{1}^{\frac{1}{3}}+\mathrm{\beta}_{2}^{\frac{2}{3}} $$
