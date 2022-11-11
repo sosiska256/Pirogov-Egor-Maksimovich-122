@@ -21,4 +21,6 @@ $$ \overline{\mathrm{E_{1}^{2}}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a_{1}^{\
 $$ a=\frac{{V_{x}^{2}}-{V_{0x}^{2}}}{2S_{x}} $$
 
 $$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
+
+
 ![30](https://user-images.githubusercontent.com/114388129/201264323-0a3f6dc2-c45a-4ab6-bf48-598f33509379.jpg)
