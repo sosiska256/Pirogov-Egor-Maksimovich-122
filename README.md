@@ -22,5 +22,4 @@ $$ a=\frac{{V_{x}^{2}}-{V_{0x}^{2}}}{2S_{x}} $$
 
 $$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
 
-
-![30](https://user-images.githubusercontent.com/114388129/201264323-0a3f6dc2-c45a-4ab6-bf48-598f33509379.jpg)
+![Снимок](https://user-images.githubusercontent.com/114388129/201264564-20d104e5-47b7-4ec9-8cc4-7faa9c5d60e6.PNG)
