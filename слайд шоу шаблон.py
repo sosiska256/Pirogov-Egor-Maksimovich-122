@@ -1,6 +1,6 @@
 form moviepy.editor import *
 import os
-directory =
+directory = ('')
 
 clips_1 = ImageClip('').set_duration(2)
 clips_2 = ImageClip('').set_duration(2)
