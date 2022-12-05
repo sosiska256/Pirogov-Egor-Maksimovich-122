@@ -12,6 +12,7 @@
 # cod hemminga.ipynb - код Хемминга
 # cod.py - код для решения примеров с 2-мя числами(*,\,+,-)
 # turtle - папка с черепахами рисующими деревья
+# Смайлик нарисованный в inkscape - смайлик который нарисован в inkscape
 # SQL запросы - SQL запросы
 # chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
 $$ \overline{(a \wedge b)} = \overline{a} \vee \overline{b} $$
