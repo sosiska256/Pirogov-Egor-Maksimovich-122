@@ -1,3 +1,4 @@
+import time
 import random
 a=input('Введи имя')
 pol=int(input('Вы мужчина?(1-да,2-нет)'))
@@ -21,3 +22,4 @@ elif pol==2:
     z=random.choice(['лина','на','ка'])
     print(f'Мар{d}{v}')
     print(f'Мар{var2}{z}. Какая умница, а может теперь займешься чем-то полезным?')
+time.sleep(10)
