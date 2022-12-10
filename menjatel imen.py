@@ -1,6 +1,5 @@
 import time
 import random
-while True:
     a=input('Введи имя: ')
     pol=int(input('Вы мужчина?(1-да,2-нет): '))
     if pol==1:
