@@ -27,7 +27,7 @@ def zxc():
             v=random.choice(['Мар','Муд','Зиг'])
             z=random.choice(['лина','на','ла'])
             k=random.choice(['Мар','Муд','Зиг'])
-            l=random.choice(['нер','ор','кс'])
+            l=random.choice(['лина','на','ла'])
             print(f'Ваше имя: {v}{d}{z}')
             print(f'Альтернативный вариант: {k}{var2}{l}')
         m=int(input('Хотите ещё раз запустить?(1-да 2-нет)'))
