@@ -11,10 +11,10 @@ def zxc():
         var=b[2:]
         var2=''.join(var)
         d=''.join(c)
-        v=random.choice(['Мар','Муд','Зиг'])
-        z=random.choice(['нер','ор','кс'])
-        k=random.choice(['Мар','Муд','Зиг'])
-        l=random.choice(['нер','ор','кс'])
+        v=random.choice(['Мар','Муд','Зиг','Муха'])
+        z=random.choice(['нер','ор','кс','бек','ммед'])
+        k=random.choice(['Мар','Муд','Зиг','Муха'])
+        l=random.choice(['нер','ор','кс','бек','ммед'])
         print(f'Ваше имя: {v}{d}{z}.\nАльтернативный вариант: {k}{var2}{l}')
     elif pol==2:
         b=list(a)
