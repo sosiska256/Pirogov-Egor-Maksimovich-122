@@ -7,8 +7,8 @@ def zxc():
     pol=int(input('Вы мужчина?(1-да,2-нет): '))
     if pol==1:
         b=list(a)
-        c=b[2:]
-        var=b[3:]
+        c=b[1:]
+        var=b[2:]
         var2=''.join(var)
         d=''.join(c)
         v=random.choice(['Мар','Муд','Зиг'])
@@ -18,8 +18,8 @@ def zxc():
         print(f'Ваше имя: {v}{d}{z}.\nАльтернативный вариант: {k}{var2}{l}')
     elif pol==2:
         b=list(a)
-        c=b[2:]
-        var=b[3:]
+        c=b[1:]
+        var=b[2:]
         var2=''.join(var)
         d=''.join(c)
         v=random.choice(['Мар','Муд','Зиг'])
