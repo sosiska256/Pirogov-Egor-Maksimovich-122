@@ -16,8 +16,7 @@ def zxc():
             z=random.choice(['нер','ор','кс'])
             k=random.choice(['Мар','Муд','Зиг'])
             l=random.choice(['нер','ор','кс'])
-            print(f'Ваше имя: {v}{d}{z}')
-            print(f'Альтернативный вариант: {k}{var2}{l}')
+            print(f'Ваше имя: {v}{d}{z}.Альтернативный вариант: {k}{var2}{l}')
         elif pol==2:
             b=list(a)
             c=b[2:]
@@ -28,8 +27,7 @@ def zxc():
             z=random.choice(['лина','на','ла'])
             k=random.choice(['Мар','Муд','Зиг'])
             l=random.choice(['лина','на','ла'])
-            print(f'Ваше имя: {v}{d}{z}')
-            print(f'Альтернативный вариант: {k}{var2}{l}')
+            print(f'Ваше имя: {v}{d}{z}.Альтернативный вариант: {k}{var2}{l}')
         m=int(input('Хотите ещё раз запустить?(1-да 2-нет)'))
         if m==1:
             os.system('cls')
