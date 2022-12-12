@@ -15,7 +15,7 @@ def zxc():
             v=random.choice(['Мар','Муд','Зиг'])
             z=random.choice(['нер','ор','кс'])
             k=random.choice(['Мар','Муд','Зиг'])
-            l=random.choice(['нер','ор','кс'])
+            l=random.choice(['дер','ор','кс'])
             print(f'Ваше имя: {v}{d}{z}.Альтернативный вариант: {k}{var2}{l}')
         elif pol==2:
             b=list(a)
