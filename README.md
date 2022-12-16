@@ -14,16 +14,6 @@
 # Смайлик нарисованный в inkscape - смайлик который нарисован в inkscape
 # SQL запросы - SQL запросы
 # chhihfduifgdihkguhdighgduihoifhgiibohiifojbuif.py - задание на алгебру логики
-$$ \overline{(a \wedge b)} = \overline{a} \vee \overline{b} $$
-
-$$ \overline{\mathrm{E_{1}^{2}}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a_{1}^{\frac{1}{3}}}+\mathrm{\beta}_{2}^{\frac{2}{3}} $$
-
-$$ a=\frac{{V_{x}^{2}}-{V_{0x}^{2}}}{2S_{x}} $$
-
-$$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
-
-![Снимок](https://user-images.githubusercontent.com/114388129/201264564-20d104e5-47b7-4ec9-8cc4-7faa9c5d60e6.PNG)
-
 # cod.py - код для слайд шоу в питоне
 # картинка с текстом.py - картинка с наложенным на ней текстом из python
 # слайд шоу шаблон.py - шаблон для сайд шоу в питоне
@@ -34,6 +24,17 @@ $$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
 # menjatel imen.py - генератор имён(я один сделал(в соло))
 # ветка с цветами.svg - ветка в inkscape
 # extawords.py - генератор имён, но который сделан с командой
+
+$$ \overline{(a \wedge b)} = \overline{a} \vee \overline{b} $$
+
+$$ \overline{\mathrm{E_{1}^{2}}}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\mathrm{a_{1}^{\frac{1}{3}}}+\mathrm{\beta}_{2}^{\frac{2}{3}} $$
+
+$$ a=\frac{{V_{x}^{2}}-{V_{0x}^{2}}}{2S_{x}} $$
+
+$$ S_{x}=V_{0x}t+\frac{{a_{x}}t^{2}}{2} $$
+
+![Снимок](https://user-images.githubusercontent.com/114388129/201264564-20d104e5-47b7-4ec9-8cc4-7faa9c5d60e6.PNG)
+
 
 ```mermaid
 flowchart LR
