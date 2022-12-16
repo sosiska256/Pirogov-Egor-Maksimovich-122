@@ -27,3 +27,14 @@ imges = list(filter(lambda x: x.endswith('.png'), files))
 clips = [ImageClip(m).set_duration(2) for m in imges]
 final_clip= concatenate_videoclips(clips, method='compose')
 final_clip.write_videofile('videotest.mp4',fps=24)
+
+
+
+abc=['А','Б','В','Г','Д','Е','Ж','З','И','Й','К','а','б','в','г','д','е','ж','з','и','й','к']
+ab=['._','-…','.--','--.','-..','.','…-','--..','..','.---','-.-','._','-…','.--','--.','-..','.','…-','--..','..','.---','-.-']
+word1=list(input())
+word2=[]
+for i in range(len(word1)):
+    word2.append(ab[abc.index(word1[i])])
+B=''.join(word2)
+print(B)
