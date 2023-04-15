@@ -141,7 +141,9 @@ with open('26.txt') as f:
 
 ]
 
-layout = [[sg.Combo(s, default_value=s[0], s=(15,22), enable_events=True, readonly=True, k='-COMBO-', key='Combo'),
+layout = [[sg.Text('Pirogov Egor', font=('Arial', 12))
+          [sg.Text('v0.1', font=('Arial', 12))],
+          [sg.Combo(s, default_value=s[0], s=(15,22), enable_events=True, readonly=True, k='-COMBO-', key='Combo'),
           sg.Output(s=(90,50), key='outputt')],
           [sg.Button('Process Input', font=('Arial', 12), button_color=('white', '#4CAF50'), key='process'),
            sg.Button('Someth', font=('Arial', 12), button_color=('white', '#4CAF50'), key='button')]]
